@@ -1,3 +1,7 @@
+# pylint: disable=missing-function-docstring
+# pylint: disable=redefined-outer-name
+# pylint: disable=unused-argument
+# mypy: ignore-errors
 """Module that contains a Pandas to BigQuery schema translator."""
 
 import datetime
