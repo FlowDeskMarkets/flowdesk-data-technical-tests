@@ -1,6 +1,7 @@
 """Module that contains a Pandas to BigQuery schema translator."""
 
 import datetime
+
 import pandas as pd
 
 data = [
